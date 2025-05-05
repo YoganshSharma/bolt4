@@ -1,0 +1,6 @@
+debug/
+target/
+
+.direnv/
+.envrc
+
